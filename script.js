@@ -1,8 +1,8 @@
-let sum = 0;
+let summ = 0;
 for (i = 1; i <= 50; i++) {
   if (i % 7 === 0) sum += i;
 }
-console.log(sum);
+console.log(summ);
 
 let summ = 0;
 for (i = 1; i <= 50; i++) {
